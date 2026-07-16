@@ -36,6 +36,13 @@ Application de gestion financière personnelle, installable sur Android et iPhon
 - modes clair, sombre et automatique ;
 - interface principale en français, malagasy ou anglais.
 
+## Mise à jour 4 — identité visuelle
+
+- nouvelle icône Volako fournie par le créateur ;
+- icônes d'installation optimisées pour Android, Chrome et iPhone ;
+- nouveau logo dans l'en-tête et l'écran de verrouillage ;
+- menu inférieur modernisé avec des pictogrammes SVG pour Accueil, Opérations, Budget, Objectifs et Statistiques.
+
 ## Tester sur ordinateur
 
 Dans le dossier du projet, lancez un serveur local :
