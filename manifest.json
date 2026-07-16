@@ -1,0 +1,10 @@
+{
+  "name":"Volako — Gestion financière",
+  "short_name":"Volako",
+  "description":"Gérez vos revenus, dépenses, budgets, économies et dettes hors ligne.",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f4f7fb",
+  "theme_color":"#0b5bd3",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
