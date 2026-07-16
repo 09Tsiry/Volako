@@ -43,6 +43,17 @@ Application de gestion financière personnelle, installable sur Android et iPhon
 - nouveau logo dans l'en-tête et l'écran de verrouillage ;
 - menu inférieur modernisé avec des pictogrammes SVG pour Accueil, Opérations, Budget, Objectifs et Statistiques.
 
+## Mise à jour 5 — synchronisation familiale
+
+- comptes individuels par e-mail ;
+- création d'un foyer partagé avec code d'invitation ;
+- deuxième utilisateur avec son propre identifiant ;
+- synchronisation automatique et manuelle ;
+- mise à jour en temps réel lorsque les deux appareils sont connectés ;
+- fonctionnement hors ligne avec envoi au retour d'Internet ;
+- règles Supabase RLS limitant l'accès aux seuls membres du foyer ;
+- préférences sensibles du téléphone, notamment le PIN, non partagées.
+
 ## Tester sur ordinateur
 
 Dans le dossier du projet, lancez un serveur local :
